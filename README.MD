@@ -1,5 +1,7 @@
 # cnxComputerManagement
 
+[![Join the chat at https://gitter.im/stefanstranger/cnxComputerManagement](https://badges.gitter.im/stefanstranger/cnxComputerManagement.svg)](https://gitter.im/stefanstranger/cnxComputerManagement?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The **cnxComputerManagement** module contains the **cnxDomainJoin** DSC resource to join a Linux server to Active Directory domain.
 
 ## Contributing
