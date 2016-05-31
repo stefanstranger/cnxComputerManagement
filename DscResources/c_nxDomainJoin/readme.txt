@@ -1,0 +1,1 @@
+Add code for Domain Join DSC Resource here.
